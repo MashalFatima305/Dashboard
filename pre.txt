@@ -1,0 +1,5 @@
+conda install pandas
+conda install matplotlib
+conda install seaborn
+conda install -c conda-forge streamlit
+conda activate streamlit_env
